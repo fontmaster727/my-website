@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
 html {
 background-color: red;
 }
@@ -7,5 +9,11 @@ margin-left: auto;
 margin-right:auto;
 width: 80%;
 background-color: white;
-border: 2px solid black;
+border: 5px solid black;
+padding: 10px;
+font-family: "Press Start 2P", sans-serif;
+}
+
+h1 {
+  text-align: center;
 }
